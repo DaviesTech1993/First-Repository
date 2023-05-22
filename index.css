@@ -1,0 +1,18 @@
+.navbar-top {
+    transform: translateY(-150px);
+}
+
+body{
+    /* background-color: lightgray; */
+}
+h4{
+    color: #1A6692;
+}
+.readMore{
+    position: relative;
+}
+.readMore2{
+    position: absolute;
+    bottom: 0;
+    right: 30%;
+}
